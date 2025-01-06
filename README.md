@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ParwinMirzaei
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in Data Analytics and Web Development
+- 🌱 I’m currently learning Python, SQL, JavaScript and React 
 - 🙂 Pronouns: she,her
